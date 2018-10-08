@@ -1,0 +1,7 @@
+D:\Studia\Technologie Programowania\RepozytoriumGit\Technologie_Programowania\Zadanie3\Program\bin\Release\Program.exe.config
+D:\Studia\Technologie Programowania\RepozytoriumGit\Technologie_Programowania\Zadanie3\Program\bin\Release\Program.exe
+D:\Studia\Technologie Programowania\RepozytoriumGit\Technologie_Programowania\Zadanie3\Program\bin\Release\Program.pdb
+D:\Studia\Technologie Programowania\RepozytoriumGit\Technologie_Programowania\Zadanie3\Program\obj\Release\Program.csprojResolveAssemblyReference.cache
+D:\Studia\Technologie Programowania\RepozytoriumGit\Technologie_Programowania\Zadanie3\Program\obj\Release\Program.csproj.CoreCompileInputs.cache
+D:\Studia\Technologie Programowania\RepozytoriumGit\Technologie_Programowania\Zadanie3\Program\obj\Release\Program.exe
+D:\Studia\Technologie Programowania\RepozytoriumGit\Technologie_Programowania\Zadanie3\Program\obj\Release\Program.pdb

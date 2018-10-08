@@ -1,0 +1,199 @@
+<DataContext z:Id="1" xmlns="http://schemas.datacontract.org/2004/07/czesc1" xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns:z="http://schemas.microsoft.com/2003/10/Serialization/">
+  <bookReaders z:Id="2" z:Size="3" xmlns:a="http://schemas.datacontract.org/2004/07/Library">
+    <a:BookReader z:Id="3">
+      <a:Age>30</a:Age>
+      <a:FirstName z:Id="4">Sławomir</a:FirstName>
+      <a:LastName z:Id="5">Desperski</a:LastName>
+      <a:Telephone z:Id="6">343245634</a:Telephone>
+    </a:BookReader>
+    <a:BookReader z:Id="7">
+      <a:Age>50</a:Age>
+      <a:FirstName z:Id="8">Jacek</a:FirstName>
+      <a:LastName z:Id="9">Goc</a:LastName>
+      <a:Telephone z:Id="10">5346345</a:Telephone>
+    </a:BookReader>
+    <a:BookReader z:Id="11">
+      <a:Age>45</a:Age>
+      <a:FirstName z:Id="12">Mirosław</a:FirstName>
+      <a:LastName z:Id="13">Saniewski</a:LastName>
+      <a:Telephone z:Id="14">465432654</a:Telephone>
+    </a:BookReader>
+  </bookReaders>
+  <bookStates z:Id="15" z:Size="7" xmlns:a="http://schemas.datacontract.org/2004/07/Library">
+    <a:BookState z:Id="16">
+      <a:Available>true</a:Available>
+      <a:Book z:Id="17">
+        <a:Author z:Id="18">Remigiusz Mróz</a:Author>
+        <a:Isbn z:Id="19">9788380751606</a:Isbn>
+        <a:ReleaseYear>2016</a:ReleaseYear>
+        <a:Title z:Id="20">Behawiorysta</a:Title>
+      </a:Book>
+      <a:BookDescription z:Id="21">Zamachowiec zajmuje przedszkole, grożąc, że zabije wychowawców i dzieci. Policja jest bezsilna, a mężczyzna nie przedstawia żadnych żądań. Nikt nie wie, dlaczego wziął zakładników, ani co zamierza osiągnąć. Sytuację komplikuje fakt, że transmisja na żywo z przedszkola pojawia się w internecie...</a:BookDescription>
+      <a:DateOfPurchase xmlns:b="http://schemas.datacontract.org/2004/07/System">
+        <b:DateTime>2017-05-20T23:00:00Z</b:DateTime>
+        <b:OffsetMinutes>60</b:OffsetMinutes>
+      </a:DateOfPurchase>
+    </a:BookState>
+    <a:BookState z:Id="22">
+      <a:Available>true</a:Available>
+      <a:Book z:Id="23">
+        <a:Author z:Ref="18" i:nil="true"/>
+        <a:Isbn z:Id="24">9788380750210</a:Isbn>
+        <a:ReleaseYear>2015</a:ReleaseYear>
+        <a:Title z:Id="25">Ekspozycja</a:Title>
+      </a:Book>
+      <a:BookDescription z:Id="26">Termin ekspozycja ma przynajmniej pięć znaczeń. Podobnie wieloznaczny jest każdy krok mordercy. Pewnego ranka turyści odkrywają na Giewoncie makabryczny widok – na ramionach krzyża powieszono nagiego mężczyznę.Wszystko wskazuje na to, że zabójca nie zostawił żadnych śladów.</a:BookDescription>
+      <a:DateOfPurchase xmlns:b="http://schemas.datacontract.org/2004/07/System">
+        <b:DateTime>2017-05-20T23:00:00Z</b:DateTime>
+        <b:OffsetMinutes>60</b:OffsetMinutes>
+      </a:DateOfPurchase>
+    </a:BookState>
+    <a:BookState z:Id="27">
+      <a:Available>true</a:Available>
+      <a:Book z:Id="28">
+        <a:Author z:Ref="18" i:nil="true"/>
+        <a:Isbn z:Id="29">9788380750722</a:Isbn>
+        <a:ReleaseYear>2016</a:ReleaseYear>
+        <a:Title z:Id="30">Przewieszenie</a:Title>
+      </a:Book>
+      <a:BookDescription z:Id="31">Podhalem wstrząsa seria wypadków w górach. Początkowo czarna passa wydaje się jedynie ciągiem pechowych zdarzeń, jednak śledczy ostatecznie odkrywają związek między ofiarami.</a:BookDescription>
+      <a:DateOfPurchase xmlns:b="http://schemas.datacontract.org/2004/07/System">
+        <b:DateTime>2017-05-20T23:00:00Z</b:DateTime>
+        <b:OffsetMinutes>60</b:OffsetMinutes>
+      </a:DateOfPurchase>
+    </a:BookState>
+    <a:BookState z:Id="32">
+      <a:Available>true</a:Available>
+      <a:Book z:Id="33">
+        <a:Author z:Ref="18" i:nil="true"/>
+        <a:Isbn z:Id="34">9788380751026</a:Isbn>
+        <a:ReleaseYear>2016</a:ReleaseYear>
+        <a:Title z:Id="35">Trawers</a:Title>
+      </a:Book>
+      <a:BookDescription z:Id="36">Finał bestsellerowej trylogii z komisarzem Forstem autorstwa Remigiusza Mroza, najgorętszego nazwiska polskiego kryminału. Wszystkie pożary zgasły.Zostały tylko zgliszcza.</a:BookDescription>
+      <a:DateOfPurchase xmlns:b="http://schemas.datacontract.org/2004/07/System">
+        <b:DateTime>2017-05-20T23:00:00Z</b:DateTime>
+        <b:OffsetMinutes>60</b:OffsetMinutes>
+      </a:DateOfPurchase>
+    </a:BookState>
+    <a:BookState z:Id="37">
+      <a:Available>true</a:Available>
+      <a:Book z:Id="38">
+        <a:Author z:Id="39">Ove Logmansbo</a:Author>
+        <a:Isbn z:Id="40">9788327154590</a:Isbn>
+        <a:ReleaseYear>2016</a:ReleaseYear>
+        <a:Title z:Id="41">Enklawa</a:Title>
+      </a:Book>
+      <a:BookDescription z:Id="42">Wyspy Owcze. Jedno z najbezpieczniejszych miejsc na świecie. Od 1988 roku zdarzyło się tutaj tylko jedno morderstwo, a mieszkańcom pojęcie przestępstwa jest właściwie nieznane. Farerzy żyją spokojnie, zajmując się swoimi sprawami i przejmując jedynie tym, by liczba turystów w sezonie nie spadła.</a:BookDescription>
+      <a:DateOfPurchase xmlns:b="http://schemas.datacontract.org/2004/07/System">
+        <b:DateTime>2017-05-20T23:00:00Z</b:DateTime>
+        <b:OffsetMinutes>60</b:OffsetMinutes>
+      </a:DateOfPurchase>
+    </a:BookState>
+    <a:BookState z:Id="43">
+      <a:Available>true</a:Available>
+      <a:Book z:Id="44">
+        <a:Author z:Ref="39" i:nil="true"/>
+        <a:Isbn z:Id="45">9788327155825</a:Isbn>
+        <a:ReleaseYear>2016</a:ReleaseYear>
+        <a:Title z:Id="46">Połów</a:Title>
+      </a:Book>
+      <a:BookDescription z:Id="47">Raz do roku wody wokół Wysp Owczych przybierają krwawy odcień. Mieszkańcy urządzają grindadráp, czyli tradycyjny połów grindwali. Jedno z upolowanych zwierząt budzi w Farerach grozę – podczas patroszenia rybacy odkrywają w żołądku ssaka makabryczne znalezisko…</a:BookDescription>
+      <a:DateOfPurchase xmlns:b="http://schemas.datacontract.org/2004/07/System">
+        <b:DateTime>2017-05-20T23:00:00Z</b:DateTime>
+        <b:OffsetMinutes>60</b:OffsetMinutes>
+      </a:DateOfPurchase>
+    </a:BookState>
+    <a:BookState z:Id="48">
+      <a:Available>true</a:Available>
+      <a:Book z:Id="49">
+        <a:Author z:Ref="39" i:nil="true"/>
+        <a:Isbn z:Id="50">9788327155917</a:Isbn>
+        <a:ReleaseYear>2017</a:ReleaseYear>
+        <a:Title z:Id="51">Prom</a:Title>
+      </a:Book>
+      <a:BookDescription z:Id="52">Prom płynący z Hirsthals w Danii zatrzymuje się na wodach przybrzeżnych Wysp Owczych. Z jednostką nie ma kontaktu, nic jednak nie wskazuje na to, by miała miejsce awaria. Czy doszło do porwania? Zamachu terrorystycznego? A może to rezultat działania szaleńca?</a:BookDescription>
+      <a:DateOfPurchase xmlns:b="http://schemas.datacontract.org/2004/07/System">
+        <b:DateTime>2017-05-20T23:00:00Z</b:DateTime>
+        <b:OffsetMinutes>60</b:OffsetMinutes>
+      </a:DateOfPurchase>
+    </a:BookState>
+  </bookStates>
+  <books z:Id="53" z:Size="7" xmlns:a="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+    <a:KeyValueOfstringBookVnYHcN47>
+      <a:Key z:Ref="19" i:nil="true"/>
+      <a:Value z:Ref="17" i:nil="true" xmlns:b="http://schemas.datacontract.org/2004/07/Library"/>
+    </a:KeyValueOfstringBookVnYHcN47>
+    <a:KeyValueOfstringBookVnYHcN47>
+      <a:Key z:Ref="24" i:nil="true"/>
+      <a:Value z:Ref="23" i:nil="true" xmlns:b="http://schemas.datacontract.org/2004/07/Library"/>
+    </a:KeyValueOfstringBookVnYHcN47>
+    <a:KeyValueOfstringBookVnYHcN47>
+      <a:Key z:Ref="29" i:nil="true"/>
+      <a:Value z:Ref="28" i:nil="true" xmlns:b="http://schemas.datacontract.org/2004/07/Library"/>
+    </a:KeyValueOfstringBookVnYHcN47>
+    <a:KeyValueOfstringBookVnYHcN47>
+      <a:Key z:Ref="34" i:nil="true"/>
+      <a:Value z:Ref="33" i:nil="true" xmlns:b="http://schemas.datacontract.org/2004/07/Library"/>
+    </a:KeyValueOfstringBookVnYHcN47>
+    <a:KeyValueOfstringBookVnYHcN47>
+      <a:Key z:Ref="40" i:nil="true"/>
+      <a:Value z:Ref="38" i:nil="true" xmlns:b="http://schemas.datacontract.org/2004/07/Library"/>
+    </a:KeyValueOfstringBookVnYHcN47>
+    <a:KeyValueOfstringBookVnYHcN47>
+      <a:Key z:Ref="45" i:nil="true"/>
+      <a:Value z:Ref="44" i:nil="true" xmlns:b="http://schemas.datacontract.org/2004/07/Library"/>
+    </a:KeyValueOfstringBookVnYHcN47>
+    <a:KeyValueOfstringBookVnYHcN47>
+      <a:Key z:Ref="50" i:nil="true"/>
+      <a:Value z:Ref="49" i:nil="true" xmlns:b="http://schemas.datacontract.org/2004/07/Library"/>
+    </a:KeyValueOfstringBookVnYHcN47>
+  </books>
+  <events z:Id="54" z:Size="4" xmlns:a="http://schemas.datacontract.org/2004/07/Library">
+    <a:Event z:Id="55">
+      <a:BookReader z:Ref="3" i:nil="true"/>
+      <a:BookState z:Ref="16" i:nil="true"/>
+      <a:BorrowDate xmlns:b="http://schemas.datacontract.org/2004/07/System">
+        <b:DateTime>2017-05-30T11:00:00Z</b:DateTime>
+        <b:OffsetMinutes>60</b:OffsetMinutes>
+      </a:BorrowDate>
+      <a:ReturnDate xmlns:b="http://schemas.datacontract.org/2004/07/System">
+        <b:DateTime>2017-06-05T11:00:00Z</b:DateTime>
+        <b:OffsetMinutes>60</b:OffsetMinutes>
+      </a:ReturnDate>
+    </a:Event>
+    <a:Event z:Id="56">
+      <a:BookReader z:Ref="7" i:nil="true"/>
+      <a:BookState z:Ref="22" i:nil="true"/>
+      <a:BorrowDate xmlns:b="http://schemas.datacontract.org/2004/07/System">
+        <b:DateTime>2017-07-10T11:00:00Z</b:DateTime>
+        <b:OffsetMinutes>60</b:OffsetMinutes>
+      </a:BorrowDate>
+      <a:ReturnDate xmlns:b="http://schemas.datacontract.org/2004/07/System">
+        <b:DateTime>2017-08-05T11:00:00Z</b:DateTime>
+        <b:OffsetMinutes>60</b:OffsetMinutes>
+      </a:ReturnDate>
+    </a:Event>
+    <a:Event z:Id="57">
+      <a:BookReader z:Ref="3" i:nil="true"/>
+      <a:BookState z:Ref="16" i:nil="true"/>
+      <a:BorrowDate xmlns:b="http://schemas.datacontract.org/2004/07/System">
+        <b:DateTime>2017-09-11T11:00:00Z</b:DateTime>
+        <b:OffsetMinutes>60</b:OffsetMinutes>
+      </a:BorrowDate>
+      <a:ReturnDate xmlns:b="http://schemas.datacontract.org/2004/07/System">
+        <b:DateTime>2017-09-12T11:00:00Z</b:DateTime>
+        <b:OffsetMinutes>60</b:OffsetMinutes>
+      </a:ReturnDate>
+    </a:Event>
+    <a:Event z:Id="58">
+      <a:BookReader z:Ref="3" i:nil="true"/>
+      <a:BookState z:Ref="16" i:nil="true"/>
+      <a:BorrowDate xmlns:b="http://schemas.datacontract.org/2004/07/System">
+        <b:DateTime>2018-03-25T15:39:08.0586731Z</b:DateTime>
+        <b:OffsetMinutes>120</b:OffsetMinutes>
+      </a:BorrowDate>
+      <a:ReturnDate i:nil="true" xmlns:b="http://schemas.datacontract.org/2004/07/System"/>
+    </a:Event>
+  </events>
+</DataContext>

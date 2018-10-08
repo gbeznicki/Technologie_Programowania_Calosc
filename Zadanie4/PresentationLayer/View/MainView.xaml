@@ -1,0 +1,60 @@
+﻿<Window x:Class="Zadanie4.View.MainView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Zadanie4.View"
+        xmlns:viewModel="clr-namespace:Zadanie4.ViewModel"
+        mc:Ignorable="d"
+        Title="Zadanie 4" Height="450" Width="1252.786">
+    <Window.Resources>
+        <viewModel:MainViewModel x:Key="UserViewModel" />
+    </Window.Resources>
+    <Grid DataContext="{StaticResource UserViewModel}">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="2*"/>
+            <ColumnDefinition Width="3*"/>
+            <ColumnDefinition Width="3*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="4*"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <ListBox ItemsSource="{Binding ProductReviews}" SelectedItem="{Binding CurrentProductReview}" Grid.Column="0" Grid.Row="0">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel Orientation="Vertical">
+                        <Label Content="{Binding ReviewerName}"/>
+                        <Label Content="{Binding Rating}"/>
+                    </StackPanel>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+        <Button Content="Pobierz dane z bazy" Grid.Column="0" Grid.Row="1" Command="{Binding GetDataCommand}" Margin="10,0"/>
+        <Button Content="Dodaj opinię" Grid.Column="2" Grid.Row="1" Command="{Binding AddProductReviewCommand}" Margin="10,0"/>
+        <Button Content="Usuń opinię" Grid.Column="1" Command="{Binding DeleteProductReviewCommand}" Margin="10,0" Grid.Row="1"/>
+        <TextBox Grid.Column="1" HorizontalAlignment="Left" Height="23" Margin="187,13,0,0" TextWrapping="Wrap" Text="{Binding CurrentProductReview.ReviewerName}" VerticalAlignment="Top" Width="278" />
+        <TextBox Grid.Column="1" HorizontalAlignment="Left" Height="23" Margin="187,75,0,0" TextWrapping="Wrap" Text="{Binding CurrentProductReview.ReviewDate}" VerticalAlignment="Top" Width="278"/>
+        <TextBox Grid.Column="1" HorizontalAlignment="Left" Height="23" Margin="187,106,0,0" TextWrapping="Wrap" Text="{Binding CurrentProductReview.EmailAddress}" VerticalAlignment="Top" Width="278"/>
+        <TextBox Grid.Column="1" HorizontalAlignment="Left" Height="23" Margin="187,137,0,0" TextWrapping="Wrap" Text="{Binding CurrentProductReview.Rating}" VerticalAlignment="Top" Width="278"/>
+        <Button Content="Zapisz zmiany" Grid.Column="1" HorizontalAlignment="Left" Height="44" Margin="145,281,0,0" VerticalAlignment="Top" Width="188" Command="{Binding UpdateProductReviewCommand}" RenderTransformOrigin="0.485,0.943"/>
+        <Label Content="Wystawiający opinię:" Grid.Column="1" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
+        <Label Content="Data opinii:" Grid.Column="1" HorizontalAlignment="Left" Margin="10,72,0,0" VerticalAlignment="Top"/>
+        <Label Content="Adres e-mail:" Grid.Column="1" HorizontalAlignment="Left" Margin="10,104,0,0" VerticalAlignment="Top"/>
+        <Label Content="Ocena:" Grid.Column="1" HorizontalAlignment="Left" Margin="10,134,0,0" VerticalAlignment="Top"/>
+        <Label Content="Komentarz:" Grid.Column="1" HorizontalAlignment="Left" Margin="10,165,0,0" VerticalAlignment="Top"/>
+        <TextBox Grid.Column="1" HorizontalAlignment="Left" Height="82" Margin="187,169,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="278" Text="{Binding CurrentProductReview.Comments}" VerticalScrollBarVisibility="Visible"/>
+        <Label Content="Nazwa produktu:" Grid.Column="1" HorizontalAlignment="Left" Margin="10,41,0,0" VerticalAlignment="Top"/>
+        <TextBox Grid.Column="1" HorizontalAlignment="Left" Height="23" Margin="187,45,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="278" Text="{Binding CurrentProduct.Name}" IsEnabled="False"/>
+        <Label Content="Wystawiający opinię:" Grid.Column="2" HorizontalAlignment="Left" Margin="10,45,0,0" VerticalAlignment="Top"/>
+        <Label Content="Adres e-mail:" Grid.Column="2" HorizontalAlignment="Left" Margin="10,75,0,0" VerticalAlignment="Top"/>
+        <Label Content="Ocena:" Grid.Column="2" HorizontalAlignment="Left" Margin="10,101,0,0" VerticalAlignment="Top"/>
+        <Label Content="Komentarz:" Grid.Column="2" HorizontalAlignment="Left" Margin="10,132,0,0" VerticalAlignment="Top"/>
+        <TextBox Grid.Column="2" HorizontalAlignment="Left" Height="82" Margin="179,137,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="278" Text="{Binding NewComments}" VerticalScrollBarVisibility="Visible"/>
+        <Label Content="ID produktu:" Grid.Column="2" HorizontalAlignment="Left" Margin="10,18,0,0" VerticalAlignment="Top"/>
+        <TextBox Grid.Column="2" HorizontalAlignment="Left" Height="23" Margin="179,21,0,0" TextWrapping="Wrap" Text="{Binding NewProductID}" VerticalAlignment="Top" Width="278" />
+        <TextBox Grid.Column="2" HorizontalAlignment="Left" Height="23" Margin="179,49,0,0" TextWrapping="Wrap" Text="{Binding NewReviewerName}" VerticalAlignment="Top" Width="278" />
+        <TextBox Grid.Column="2" HorizontalAlignment="Left" Height="23" Margin="179,78,0,0" TextWrapping="Wrap" Text="{Binding NewEmailAddress}" VerticalAlignment="Top" Width="278" />
+        <TextBox Grid.Column="2" HorizontalAlignment="Left" Height="23" Margin="179,107,0,0" TextWrapping="Wrap" Text="{Binding NewRating}" VerticalAlignment="Top" Width="278" />
+    </Grid>
+</Window>

@@ -1,0 +1,358 @@
+D:\Studia\Technologie Programowania\test projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Studia\Technologie Programowania\test projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Studia\Technologie Programowania\test projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Studia\Technologie Programowania\test projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+D:\Studia\Technologie Programowania\test projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+D:\Studia\Technologie Programowania\test projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Studia\Technologie Programowania\test projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\czesc1Tests.dll
+D:\Studia\Technologie Programowania\test projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\czesc1Tests.pdb
+D:\Studia\Technologie Programowania\test projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\Studia\Technologie Programowania\test projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\netstandard.dll
+D:\Studia\Technologie Programowania\test projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.AppContext.dll
+D:\Studia\Technologie Programowania\test projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Collections.Concurrent.dll
+D:\Studia\Technologie Programowania\test projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Collections.dll
+D:\Studia\Technologie Programowania\test projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Collections.NonGeneric.dll
+D:\Studia\Technologie Programowania\test projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Collections.Specialized.dll
+D:\Studia\Technologie Programowania\test projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.ComponentModel.dll
+D:\Studia\Technologie Programowania\test projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\Studia\Technologie Programowania\test projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.ComponentModel.Primitives.dll
+D:\Studia\Technologie Programowania\test projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\Studia\Technologie Programowania\test projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Console.dll
+D:\Studia\Technologie Programowania\test projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Data.Common.dll
+D:\Studia\Technologie Programowania\test projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Diagnostics.Contracts.dll
+D:\Studia\Technologie Programowania\test projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Diagnostics.Debug.dll
+D:\Studia\Technologie Programowania\test projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\Studia\Technologie Programowania\test projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Diagnostics.Process.dll
+D:\Studia\Technologie Programowania\test projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\Studia\Technologie Programowania\test projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\Studia\Technologie Programowania\test projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Diagnostics.Tools.dll
+D:\Studia\Technologie Programowania\test projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\Studia\Technologie Programowania\test projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Diagnostics.Tracing.dll
+D:\Studia\Technologie Programowania\test projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Drawing.Primitives.dll
+D:\Studia\Technologie Programowania\test projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Dynamic.Runtime.dll
+D:\Studia\Technologie Programowania\test projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Globalization.Calendars.dll
+D:\Studia\Technologie Programowania\test projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Globalization.dll
+D:\Studia\Technologie Programowania\test projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Globalization.Extensions.dll
+D:\Studia\Technologie Programowania\test projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.IO.Compression.dll
+D:\Studia\Technologie Programowania\test projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\Studia\Technologie Programowania\test projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.IO.dll
+D:\Studia\Technologie Programowania\test projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.IO.FileSystem.dll
+D:\Studia\Technologie Programowania\test projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\Studia\Technologie Programowania\test projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\Studia\Technologie Programowania\test projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\Studia\Technologie Programowania\test projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.IO.IsolatedStorage.dll
+D:\Studia\Technologie Programowania\test projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\Studia\Technologie Programowania\test projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.IO.Pipes.dll
+D:\Studia\Technologie Programowania\test projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\Studia\Technologie Programowania\test projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Linq.dll
+D:\Studia\Technologie Programowania\test projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Linq.Expressions.dll
+D:\Studia\Technologie Programowania\test projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Linq.Parallel.dll
+D:\Studia\Technologie Programowania\test projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Linq.Queryable.dll
+D:\Studia\Technologie Programowania\test projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Net.Http.dll
+D:\Studia\Technologie Programowania\test projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Net.NameResolution.dll
+D:\Studia\Technologie Programowania\test projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Net.NetworkInformation.dll
+D:\Studia\Technologie Programowania\test projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Net.Ping.dll
+D:\Studia\Technologie Programowania\test projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Net.Primitives.dll
+D:\Studia\Technologie Programowania\test projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Net.Requests.dll
+D:\Studia\Technologie Programowania\test projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Net.Security.dll
+D:\Studia\Technologie Programowania\test projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Net.Sockets.dll
+D:\Studia\Technologie Programowania\test projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\Studia\Technologie Programowania\test projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Net.WebSockets.Client.dll
+D:\Studia\Technologie Programowania\test projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Net.WebSockets.dll
+D:\Studia\Technologie Programowania\test projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.ObjectModel.dll
+D:\Studia\Technologie Programowania\test projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Reflection.dll
+D:\Studia\Technologie Programowania\test projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Reflection.Extensions.dll
+D:\Studia\Technologie Programowania\test projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Reflection.Primitives.dll
+D:\Studia\Technologie Programowania\test projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Resources.Reader.dll
+D:\Studia\Technologie Programowania\test projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Resources.ResourceManager.dll
+D:\Studia\Technologie Programowania\test projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Resources.Writer.dll
+D:\Studia\Technologie Programowania\test projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\Studia\Technologie Programowania\test projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Runtime.dll
+D:\Studia\Technologie Programowania\test projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Runtime.Extensions.dll
+D:\Studia\Technologie Programowania\test projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Runtime.Handles.dll
+D:\Studia\Technologie Programowania\test projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Runtime.InteropServices.dll
+D:\Studia\Technologie Programowania\test projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Studia\Technologie Programowania\test projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Runtime.Numerics.dll
+D:\Studia\Technologie Programowania\test projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\Studia\Technologie Programowania\test projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\Studia\Technologie Programowania\test projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\Studia\Technologie Programowania\test projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\Studia\Technologie Programowania\test projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Security.Claims.dll
+D:\Studia\Technologie Programowania\test projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Studia\Technologie Programowania\test projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\Studia\Technologie Programowania\test projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\Studia\Technologie Programowania\test projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\Studia\Technologie Programowania\test projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Studia\Technologie Programowania\test projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Security.Principal.dll
+D:\Studia\Technologie Programowania\test projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Security.SecureString.dll
+D:\Studia\Technologie Programowania\test projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Text.Encoding.dll
+D:\Studia\Technologie Programowania\test projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\Studia\Technologie Programowania\test projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Text.RegularExpressions.dll
+D:\Studia\Technologie Programowania\test projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Threading.dll
+D:\Studia\Technologie Programowania\test projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Threading.Overlapped.dll
+D:\Studia\Technologie Programowania\test projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Threading.Tasks.dll
+D:\Studia\Technologie Programowania\test projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\Studia\Technologie Programowania\test projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Threading.Thread.dll
+D:\Studia\Technologie Programowania\test projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Threading.ThreadPool.dll
+D:\Studia\Technologie Programowania\test projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Threading.Timer.dll
+D:\Studia\Technologie Programowania\test projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.ValueTuple.dll
+D:\Studia\Technologie Programowania\test projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Xml.ReaderWriter.dll
+D:\Studia\Technologie Programowania\test projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Xml.XDocument.dll
+D:\Studia\Technologie Programowania\test projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Xml.XmlDocument.dll
+D:\Studia\Technologie Programowania\test projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Xml.XmlSerializer.dll
+D:\Studia\Technologie Programowania\test projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Xml.XPath.dll
+D:\Studia\Technologie Programowania\test projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\Studia\Technologie Programowania\test projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\czesc1.exe
+D:\Studia\Technologie Programowania\test projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\Library.dll
+D:\Studia\Technologie Programowania\test projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Studia\Technologie Programowania\test projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Studia\Technologie Programowania\test projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\czesc1.pdb
+D:\Studia\Technologie Programowania\test projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\czesc1.exe.config
+D:\Studia\Technologie Programowania\test projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\Library.pdb
+D:\Studia\Technologie Programowania\test projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Studia\Technologie Programowania\test projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Studia\Technologie Programowania\test projekt\trunk\Zadanie1\czesc1Tests\obj\Debug\czesc1Tests.csprojResolveAssemblyReference.cache
+D:\Studia\Technologie Programowania\test projekt\trunk\Zadanie1\czesc1Tests\obj\Debug\czesc1Tests.csproj.CoreCompileInputs.cache
+D:\Studia\Technologie Programowania\test projekt\trunk\Zadanie1\czesc1Tests\obj\Debug\czesc1Tests.csproj.CopyComplete
+D:\Studia\Technologie Programowania\test projekt\trunk\Zadanie1\czesc1Tests\obj\Debug\czesc1Tests.dll
+D:\Studia\Technologie Programowania\test projekt\trunk\Zadanie1\czesc1Tests\obj\Debug\czesc1Tests.pdb
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\czesc1Tests.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\czesc1Tests.pdb
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\netstandard.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.AppContext.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Collections.Concurrent.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Collections.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Collections.NonGeneric.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Collections.Specialized.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.ComponentModel.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.ComponentModel.Primitives.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Console.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Data.Common.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Diagnostics.Contracts.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Diagnostics.Debug.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Diagnostics.Process.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Diagnostics.Tools.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Diagnostics.Tracing.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Drawing.Primitives.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Dynamic.Runtime.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Globalization.Calendars.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Globalization.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Globalization.Extensions.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.IO.Compression.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.IO.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.IO.FileSystem.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.IO.IsolatedStorage.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.IO.Pipes.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Linq.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Linq.Expressions.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Linq.Parallel.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Linq.Queryable.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Net.Http.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Net.NameResolution.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Net.NetworkInformation.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Net.Ping.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Net.Primitives.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Net.Requests.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Net.Security.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Net.Sockets.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Net.WebSockets.Client.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Net.WebSockets.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.ObjectModel.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Reflection.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Reflection.Extensions.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Reflection.Primitives.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Resources.Reader.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Resources.ResourceManager.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Resources.Writer.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Runtime.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Runtime.Extensions.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Runtime.Handles.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Runtime.InteropServices.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Runtime.Numerics.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Security.Claims.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Security.Principal.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Security.SecureString.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Text.Encoding.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Text.RegularExpressions.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Threading.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Threading.Overlapped.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Threading.Tasks.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Threading.Thread.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Threading.ThreadPool.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Threading.Timer.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.ValueTuple.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Xml.ReaderWriter.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Xml.XDocument.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Xml.XmlDocument.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Xml.XmlSerializer.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Xml.XPath.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\czesc1.exe
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\Library.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\Newtonsoft.Json.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\czesc1.pdb
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\czesc1.exe.config
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\Library.pdb
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie1\czesc1Tests\bin\Debug\Newtonsoft.Json.xml
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie1\czesc1Tests\obj\Debug\czesc1Tests.csprojResolveAssemblyReference.cache
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie1\czesc1Tests\obj\Debug\czesc1Tests.csproj.CoreCompileInputs.cache
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie1\czesc1Tests\obj\Debug\czesc1Tests.csproj.CopyComplete
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie1\czesc1Tests\obj\Debug\czesc1Tests.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie1\czesc1Tests\obj\Debug\czesc1Tests.pdb
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie2\czesc1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie2\czesc1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie2\czesc1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie2\czesc1Tests\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie2\czesc1Tests\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie2\czesc1Tests\bin\Debug\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie2\czesc1Tests\bin\Debug\czesc1Tests.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie2\czesc1Tests\bin\Debug\czesc1Tests.pdb
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie2\czesc1Tests\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie2\czesc1Tests\bin\Debug\netstandard.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie2\czesc1Tests\bin\Debug\System.AppContext.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie2\czesc1Tests\bin\Debug\System.Collections.Concurrent.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie2\czesc1Tests\bin\Debug\System.Collections.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie2\czesc1Tests\bin\Debug\System.Collections.NonGeneric.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie2\czesc1Tests\bin\Debug\System.Collections.Specialized.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie2\czesc1Tests\bin\Debug\System.ComponentModel.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie2\czesc1Tests\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie2\czesc1Tests\bin\Debug\System.ComponentModel.Primitives.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie2\czesc1Tests\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie2\czesc1Tests\bin\Debug\System.Console.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie2\czesc1Tests\bin\Debug\System.Data.Common.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie2\czesc1Tests\bin\Debug\System.Diagnostics.Contracts.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie2\czesc1Tests\bin\Debug\System.Diagnostics.Debug.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie2\czesc1Tests\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie2\czesc1Tests\bin\Debug\System.Diagnostics.Process.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie2\czesc1Tests\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie2\czesc1Tests\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie2\czesc1Tests\bin\Debug\System.Diagnostics.Tools.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie2\czesc1Tests\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie2\czesc1Tests\bin\Debug\System.Diagnostics.Tracing.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie2\czesc1Tests\bin\Debug\System.Drawing.Primitives.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie2\czesc1Tests\bin\Debug\System.Dynamic.Runtime.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie2\czesc1Tests\bin\Debug\System.Globalization.Calendars.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie2\czesc1Tests\bin\Debug\System.Globalization.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie2\czesc1Tests\bin\Debug\System.Globalization.Extensions.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie2\czesc1Tests\bin\Debug\System.IO.Compression.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie2\czesc1Tests\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie2\czesc1Tests\bin\Debug\System.IO.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie2\czesc1Tests\bin\Debug\System.IO.FileSystem.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie2\czesc1Tests\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie2\czesc1Tests\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie2\czesc1Tests\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie2\czesc1Tests\bin\Debug\System.IO.IsolatedStorage.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie2\czesc1Tests\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie2\czesc1Tests\bin\Debug\System.IO.Pipes.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie2\czesc1Tests\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie2\czesc1Tests\bin\Debug\System.Linq.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie2\czesc1Tests\bin\Debug\System.Linq.Expressions.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie2\czesc1Tests\bin\Debug\System.Linq.Parallel.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie2\czesc1Tests\bin\Debug\System.Linq.Queryable.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie2\czesc1Tests\bin\Debug\System.Net.Http.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie2\czesc1Tests\bin\Debug\System.Net.NameResolution.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie2\czesc1Tests\bin\Debug\System.Net.NetworkInformation.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie2\czesc1Tests\bin\Debug\System.Net.Ping.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie2\czesc1Tests\bin\Debug\System.Net.Primitives.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie2\czesc1Tests\bin\Debug\System.Net.Requests.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie2\czesc1Tests\bin\Debug\System.Net.Security.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie2\czesc1Tests\bin\Debug\System.Net.Sockets.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie2\czesc1Tests\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie2\czesc1Tests\bin\Debug\System.Net.WebSockets.Client.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie2\czesc1Tests\bin\Debug\System.Net.WebSockets.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie2\czesc1Tests\bin\Debug\System.ObjectModel.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie2\czesc1Tests\bin\Debug\System.Reflection.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie2\czesc1Tests\bin\Debug\System.Reflection.Extensions.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie2\czesc1Tests\bin\Debug\System.Reflection.Primitives.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie2\czesc1Tests\bin\Debug\System.Resources.Reader.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie2\czesc1Tests\bin\Debug\System.Resources.ResourceManager.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie2\czesc1Tests\bin\Debug\System.Resources.Writer.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie2\czesc1Tests\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie2\czesc1Tests\bin\Debug\System.Runtime.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie2\czesc1Tests\bin\Debug\System.Runtime.Extensions.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie2\czesc1Tests\bin\Debug\System.Runtime.Handles.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie2\czesc1Tests\bin\Debug\System.Runtime.InteropServices.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie2\czesc1Tests\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie2\czesc1Tests\bin\Debug\System.Runtime.Numerics.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie2\czesc1Tests\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie2\czesc1Tests\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie2\czesc1Tests\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie2\czesc1Tests\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie2\czesc1Tests\bin\Debug\System.Security.Claims.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie2\czesc1Tests\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie2\czesc1Tests\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie2\czesc1Tests\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie2\czesc1Tests\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie2\czesc1Tests\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie2\czesc1Tests\bin\Debug\System.Security.Principal.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie2\czesc1Tests\bin\Debug\System.Security.SecureString.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie2\czesc1Tests\bin\Debug\System.Text.Encoding.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie2\czesc1Tests\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie2\czesc1Tests\bin\Debug\System.Text.RegularExpressions.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie2\czesc1Tests\bin\Debug\System.Threading.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie2\czesc1Tests\bin\Debug\System.Threading.Overlapped.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie2\czesc1Tests\bin\Debug\System.Threading.Tasks.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie2\czesc1Tests\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie2\czesc1Tests\bin\Debug\System.Threading.Thread.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie2\czesc1Tests\bin\Debug\System.Threading.ThreadPool.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie2\czesc1Tests\bin\Debug\System.Threading.Timer.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie2\czesc1Tests\bin\Debug\System.ValueTuple.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie2\czesc1Tests\bin\Debug\System.Xml.ReaderWriter.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie2\czesc1Tests\bin\Debug\System.Xml.XDocument.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie2\czesc1Tests\bin\Debug\System.Xml.XmlDocument.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie2\czesc1Tests\bin\Debug\System.Xml.XmlSerializer.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie2\czesc1Tests\bin\Debug\System.Xml.XPath.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie2\czesc1Tests\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie2\czesc1Tests\bin\Debug\czesc1.exe
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie2\czesc1Tests\bin\Debug\Library.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie2\czesc1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie2\czesc1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie2\czesc1Tests\bin\Debug\Newtonsoft.Json.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie2\czesc1Tests\bin\Debug\czesc1.pdb
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie2\czesc1Tests\bin\Debug\czesc1.exe.config
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie2\czesc1Tests\bin\Debug\Library.pdb
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie2\czesc1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie2\czesc1Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie2\czesc1Tests\bin\Debug\Newtonsoft.Json.xml
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie2\czesc1Tests\obj\Debug\czesc1Tests.csprojResolveAssemblyReference.cache
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie2\czesc1Tests\obj\Debug\czesc1Tests.csproj.CoreCompileInputs.cache
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie2\czesc1Tests\obj\Debug\czesc1Tests.csproj.CopyComplete
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie2\czesc1Tests\obj\Debug\czesc1Tests.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie2\czesc1Tests\obj\Debug\czesc1Tests.pdb

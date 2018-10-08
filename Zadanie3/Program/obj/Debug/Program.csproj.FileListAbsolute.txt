@@ -1,0 +1,21 @@
+D:\Studia\Technologie Programowania\Zad 3\Program\bin\Debug\Program.exe.config
+D:\Studia\Technologie Programowania\Zad 3\Program\bin\Debug\Program.exe
+D:\Studia\Technologie Programowania\Zad 3\Program\bin\Debug\Program.pdb
+D:\Studia\Technologie Programowania\Zad 3\Program\obj\Debug\Program.csprojResolveAssemblyReference.cache
+D:\Studia\Technologie Programowania\Zad 3\Program\obj\Debug\Program.csproj.CoreCompileInputs.cache
+D:\Studia\Technologie Programowania\Zad 3\Program\obj\Debug\Program.exe
+D:\Studia\Technologie Programowania\Zad 3\Program\obj\Debug\Program.pdb
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie3\Program\bin\Debug\Program.exe.config
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie3\Program\bin\Debug\Program.exe
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie3\Program\bin\Debug\Program.pdb
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie3\Program\obj\Debug\Program.csproj.CoreCompileInputs.cache
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie3\Program\obj\Debug\Program.exe
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie3\Program\obj\Debug\Program.pdb
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie3\Program\obj\Debug\Program.csprojResolveAssemblyReference.cache
+D:\Studia\Technologie Programowania\RepozytoriumGit\Technologie_Programowania\Zadanie3\Program\bin\Debug\Program.exe.config
+D:\Studia\Technologie Programowania\RepozytoriumGit\Technologie_Programowania\Zadanie3\Program\bin\Debug\Program.exe
+D:\Studia\Technologie Programowania\RepozytoriumGit\Technologie_Programowania\Zadanie3\Program\bin\Debug\Program.pdb
+D:\Studia\Technologie Programowania\RepozytoriumGit\Technologie_Programowania\Zadanie3\Program\obj\Debug\Program.csprojResolveAssemblyReference.cache
+D:\Studia\Technologie Programowania\RepozytoriumGit\Technologie_Programowania\Zadanie3\Program\obj\Debug\Program.csproj.CoreCompileInputs.cache
+D:\Studia\Technologie Programowania\RepozytoriumGit\Technologie_Programowania\Zadanie3\Program\obj\Debug\Program.exe
+D:\Studia\Technologie Programowania\RepozytoriumGit\Technologie_Programowania\Zadanie3\Program\obj\Debug\Program.pdb

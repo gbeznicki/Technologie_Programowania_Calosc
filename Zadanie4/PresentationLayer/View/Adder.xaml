@@ -1,0 +1,27 @@
+﻿<Window x:Class="Zadanie4.View.Adder"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Zadanie4.View"
+        xmlns:viewModel="clr-namespace:Zadanie4.ViewModel"
+        mc:Ignorable="d"
+        Title="Adder" Height="250" Width="500">
+    <Window.Resources>
+        <viewModel:MainViewModel x:Key="UserViewModel" />
+    </Window.Resources>
+    <Grid DataContext="{StaticResource UserViewModel}">
+        <Label Content="ID Produktu:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,19,0,0" Width="136"/>
+        <Label Content="Imię i Nazwisko:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,48,0,0"/>
+        <Label Content="Adres e-mail:" HorizontalAlignment="Left" VerticalAlignment="Top" RenderTransformOrigin="1.174,6.955" Margin="10,97,0,0"/>
+        <Label Content="Ocena:" HorizontalAlignment="Left" VerticalAlignment="Top" RenderTransformOrigin="1.626,4.462" Margin="10,123,0,0"/>
+        <Label Content="Komentarz:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,149,0,0" RenderTransformOrigin="0.685,-2.59"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="146,22,0,0" TextWrapping="Wrap" Text="{Binding NewReview.ProductID}" VerticalAlignment="Top" Width="328"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="146,48,0,0" TextWrapping="Wrap" Text="{Binding NewReview.ReviewerName}" VerticalAlignment="Top" Width="328"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="146,101,0,0" TextWrapping="Wrap" Text="{Binding NewReview.EmailAddress}" VerticalAlignment="Top" Width="328"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="146,129,0,0" TextWrapping="Wrap" Text="{Binding NewReview.Rating}" VerticalAlignment="Top" Width="328"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="146,157,0,0" TextWrapping="Wrap" Text="{Binding NewReview.Comments}" VerticalAlignment="Top" Width="328"/>
+        <Button Content="Zapisz" HorizontalAlignment="Left" Height="20" Margin="391,189,0,0" VerticalAlignment="Top" Width="91"
+                Command="{Binding SaveProductReviewCommand}"/>
+    </Grid>
+</Window>

@@ -1,0 +1,26 @@
+D:\Studia\Technologie Programowania\test projekt\trunk\Zadanie1\Library\bin\Debug\netstandard1.6\Library.deps.json
+D:\Studia\Technologie Programowania\test projekt\trunk\Zadanie1\Library\bin\Debug\netstandard1.6\Library.dll
+D:\Studia\Technologie Programowania\test projekt\trunk\Zadanie1\Library\bin\Debug\netstandard1.6\Library.pdb
+D:\Studia\Technologie Programowania\test projekt\trunk\Zadanie1\Library\obj\Debug\netstandard1.6\Library.csprojResolveAssemblyReference.cache
+D:\Studia\Technologie Programowania\test projekt\trunk\Zadanie1\Library\obj\Debug\netstandard1.6\Library.csproj.CoreCompileInputs.cache
+D:\Studia\Technologie Programowania\test projekt\trunk\Zadanie1\Library\obj\Debug\netstandard1.6\Library.AssemblyInfoInputs.cache
+D:\Studia\Technologie Programowania\test projekt\trunk\Zadanie1\Library\obj\Debug\netstandard1.6\Library.AssemblyInfo.cs
+D:\Studia\Technologie Programowania\test projekt\trunk\Zadanie1\Library\obj\Debug\netstandard1.6\Library.dll
+D:\Studia\Technologie Programowania\test projekt\trunk\Zadanie1\Library\obj\Debug\netstandard1.6\Library.pdb
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie1\Library\bin\Debug\netstandard1.6\Library.deps.json
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie1\Library\bin\Debug\netstandard1.6\Library.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie1\Library\bin\Debug\netstandard1.6\Library.pdb
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie1\Library\obj\Debug\netstandard1.6\Library.csproj.CoreCompileInputs.cache
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie1\Library\obj\Debug\netstandard1.6\Library.AssemblyInfoInputs.cache
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie1\Library\obj\Debug\netstandard1.6\Library.AssemblyInfo.cs
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie1\Library\obj\Debug\netstandard1.6\Library.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie1\Library\obj\Debug\netstandard1.6\Library.pdb
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie2\Library\bin\Debug\netstandard1.6\Library.deps.json
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie2\Library\bin\Debug\netstandard1.6\Library.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie2\Library\bin\Debug\netstandard1.6\Library.pdb
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie2\Library\obj\Debug\netstandard1.6\Library.csprojResolveAssemblyReference.cache
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie2\Library\obj\Debug\netstandard1.6\Library.csproj.CoreCompileInputs.cache
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie2\Library\obj\Debug\netstandard1.6\Library.AssemblyInfoInputs.cache
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie2\Library\obj\Debug\netstandard1.6\Library.AssemblyInfo.cs
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie2\Library\obj\Debug\netstandard1.6\Library.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie2\Library\obj\Debug\netstandard1.6\Library.pdb

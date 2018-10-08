@@ -1,0 +1,16 @@
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie4\ServiceLayer\bin\Debug\ServiceLayer.dll.config
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie4\ServiceLayer\bin\Debug\ServiceLayer.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie4\ServiceLayer\bin\Debug\ServiceLayer.pdb
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie4\ServiceLayer\obj\Debug\ServiceLayer.csprojResolveAssemblyReference.cache
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie4\ServiceLayer\obj\Debug\ServiceLayer.csproj.CoreCompileInputs.cache
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie4\ServiceLayer\obj\Debug\ServiceLayer.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie4\ServiceLayer\obj\Debug\ServiceLayer.pdb
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie4\ServiceLayer\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie4\ServiceLayer\bin\Debug\Prism.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie4\ServiceLayer\bin\Debug\Prism.Wpf.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie4\ServiceLayer\bin\Debug\System.Windows.Interactivity.dll
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie4\ServiceLayer\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie4\ServiceLayer\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie4\ServiceLayer\bin\Debug\Prism.xml
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie4\ServiceLayer\bin\Debug\Prism.Wpf.xml
+D:\Studia\Technologie Programowania\Projekt\trunk\Zadanie4\ServiceLayer\obj\Debug\ServiceLayer.csproj.CopyComplete
